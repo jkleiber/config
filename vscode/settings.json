@@ -1,0 +1,33 @@
+{
+    "todo-tree.defaultHighlight": {
+        "icon": "project",
+        "type": "text",
+        "foreground": "white",
+        "background": "green",
+        "opacity": 50,
+        "iconColour": "green"
+    },
+    "todo-tree.customHighlight": {
+        "TODO": {
+            "icon": "alert",
+            "type": "line",
+            "background": "yellow",
+            "iconColour": "yellow"
+        },
+        "FIXME": {
+            "icon": "stop",
+            "background": "red",
+            "iconColour": "red"
+        },
+        "NOTE": {
+            "icon": "note",
+            "background": "blue",
+            "iconColour": "blue"
+        }
+    },
+    "editor.minimap.enabled": false,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.colorTheme": "Monokai",
+    "window.zoomLevel": 0
+}
