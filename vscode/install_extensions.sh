@@ -6,6 +6,9 @@ code --install-extension ms-vscode.cpptools
 code --install-extension austin.code-gnu-global
 code --install-extension vsciot-vscode.vscode-arduino
 
+# Install formatting extensions
+code --install-extension xaver.clang-format
+
 # Install ROS extensions
 code --install-extension ajshort.ros
 code --install-extension ajshort.msg
